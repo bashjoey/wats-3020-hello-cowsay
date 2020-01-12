@@ -1,6 +1,7 @@
 
 //TODO require cowsay
-
+const cowsay = require("cowsay");
+const getargs = require("./modules/get-args")
 //TODO require getargs
 
 // get first string from command line
