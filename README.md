@@ -39,7 +39,7 @@ In order to successfully complete this exercise, you must find and complete the 
 ```
 * Use CommonJS require to make cowsay and getargs modules available to index.js.
 ```JavaScript
-const cowsay = require("cowsay");
+const cowsay = require("./node_modules/cowsay");
 const getargs = require("./modules/get-args")
 ```
 * Run index.html in the browser and get the cow to say "hello world".
