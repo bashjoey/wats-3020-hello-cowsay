@@ -2,3 +2,4 @@
 !.gitignore
 package-lock.json
 install_mode.md
+install_node.md
